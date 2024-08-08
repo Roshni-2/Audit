@@ -1,0 +1,6 @@
+select * from designation;
+select * from company_status;
+select * from company_type;
+select * from immigration_status;
+select * from address;
+select * from company;
